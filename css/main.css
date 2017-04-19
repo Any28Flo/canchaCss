@@ -39,6 +39,10 @@
   top: 50px;
   left: 250px;
 }
+#tercero{
+  top:350px;
+  left:590px;
+}
 .balon{
   position: absolute;
   width:15px;
